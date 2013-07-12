@@ -1,0 +1,19 @@
+h3 a {
+  color: black;
+}
+
+h3 small {
+  white-space: nowrap;
+}
+
+h3 + h5 {
+  margin-top: 10px;
+}
+
+h5 {
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 40px;
+}
