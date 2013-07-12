@@ -30,4 +30,6 @@ This has been a frustration for me for years.
 [I've spoken on it several times](https://speakerdeck.com/benbjohnson/behavioral-analytics-understanding-the-why-and-how-of-your-users) and I even went so far as to [write an open source database](http://skydb.io/) to solve the problem.
 
 Today I'm happy to announce that I'm releasing a hosted behavioral analytics platform called [Landmark](http://landmark.io) into beta.
-If you are interested to know more about how and why your customers behave the way they do, [please e-mail me](mailto:ben@skylandlabs.com) or [sign up for the beta](http://landmark.io/users/sign_up).
+If you are interested to know more about how and why your customers behave the way they do, [please e-mail me](mailto:ben@skylandlabs.com) or [sign up for the beta](http://landmark.io/signup).
+
+<a href="http://landmark.io/signup" class="btn btn-warning btn-embossed">Sign Up</a>
